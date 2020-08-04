@@ -84,6 +84,9 @@ simpler and easier to use library.
 
 ## 7. Work Plan (750 words)
 
+Our work plan is broken into two main sections: maintenance and work on nullable
+data types.
+
 **Maintenance**
 
 Maintainers funded by this grant would be expected to
@@ -117,9 +120,12 @@ quality of pandas' issue backlog by closing out fixed items.
 
 This item requires some familiarity with Pandas' codebase, community, and
 workflow. We hope to draw from Pandas' current pool of
-maintainers[^pandas-maintainers] and [triagers][^triagers] to find people with
+maintainers[R1] and triagers[R2] to find people with
 the necessary skills and experience. We expect this to take about 1 FTE over the
 course of the grant.
+
+[R1]: https://github.com/orgs/pandas-dev/teams/pandas-core/members
+[R2]: https://github.com/orgs/pandas-dev/teams/pandas-triage/members
 
 **Nullable Data Types**
 
@@ -240,4 +246,3 @@ contributions, but for their mentorship and for publicizing pandas as a great
 project for women and other under-represented groups in technology to contribute
 to.
 
-[^triagers]: https://github.com/orgs/pandas-dev/teams/pandas-triage/members
