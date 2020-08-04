@@ -64,11 +64,13 @@ value handling.
 ## 6. Abstract (250 words)
 
 This proposal seeks funding to help with the maintenance of pandas, a Python
-library providing high-performance, easy-to-use data structures. pandas'
-popularity continues to grow, and that popularity is reflected in the increasing
-number of issues and pull requests opened on pandas' GitHub repository. We hope
-to use the funding to ensure the continued health of the pandas project through
-two main avenues.
+library providing high-performance, easy-to-use data structures. pandas is a
+foundational library in the Scientific Python Ecosystem, providing the most
+widely-used data structures for heterogenous, tabular data, and is the most-used
+Python tag on StackOverflow. Pandas documentation averages over 1,000,000 unique
+visitors per month. Specifically within the biomedical and life sciences, Pandas
+is used directly by researchers and by libraries. We plan to fund the continued
+health of the project through two main avenues:
 
 First, we'd fund pandas maintainers to do the day-to-day work of maintaining a
 large project like pandas. This would include triaging issues, reviewing pull
